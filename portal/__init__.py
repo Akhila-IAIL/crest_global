@@ -129,6 +129,8 @@ def create_app():
 
     init_logger(APP)
     try:
+        from . import models
+        models.init_app(APP)
         init_routes(APP)
         init_cors(APP)
         init_security(APP)

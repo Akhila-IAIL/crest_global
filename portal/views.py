@@ -12,5 +12,5 @@ bp = Blueprint('view', __name__, url_prefix='/crest_global', template_folder="./
 @bp.route('/', methods=["GET", "POST"])
 def login():
     if request.method == "GET":
-        return "Hello world"
+        return render_template('login.html')
 
