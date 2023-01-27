@@ -1,0 +1,15 @@
+[2023-01-26 00:10:50,138][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-01-26 00:10:50,613][worker-0][INFO] Initialized models
+[2023-01-26 00:10:50,733][worker-0][INFO] All the tables are created
+[2023-01-26 00:10:50,742][worker-0][INFO] Initialized CORS
+[2023-01-26 00:10:50,743][worker-0][INFO] App Initialization is finished successfully
+[2023-01-26 00:13:24,718][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-01-26 00:13:25,115][worker-0][INFO] Initialized models
+[2023-01-26 00:13:25,163][worker-0][INFO] All the tables are created
+[2023-01-26 00:13:25,181][worker-0][INFO] Initialized CORS
+[2023-01-26 00:13:25,182][worker-0][INFO] App Initialization is finished successfully
+[2023-01-26 00:15:10,475][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2023-01-26 00:15:10,746][worker-0][INFO] Initialized models
+[2023-01-26 00:15:10,782][worker-0][INFO] All the tables are created
+[2023-01-26 00:15:10,787][worker-0][INFO] Initialized CORS
+[2023-01-26 00:15:10,787][worker-0][INFO] App Initialization is finished successfully
